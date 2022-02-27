@@ -37,6 +37,8 @@ Las luces de la ciudad son un 100% LED las cuales no sólo ahorran energía sino
 
 La red hidrométrica mide el caudal, la altura y lluvia acumulada[^19] aunque no es claro qué medidas se toman con esta información.
 
+# Referencias
+
 [^1]: K. Su, J. Li and H. Fu, _"Smart city and the applications,"_ 2011 International Conference on Electronics, Communications and Control (ICECC), 2011, pp. 1028-1031, doi: 10.1109/ICECC.2011.6066743.
 [^2]: CBC Radio. (2019, April 26). _Confused by “smart city” hype? This expert explains what it is and why we should care._ Retrieved February 20, 2022, from [https://www.cbc.ca/radio/spark/the-spark-guide-to-smart-cities-1.5107883/confused-by-smart-city-hype-this-expert-explains-what-it-is-and-why-we-should-care-1.5107893](https://www.cbc.ca/radio/spark/the-spark-guide-to-smart-cities-1.5107883/confused-by-smart-city-hype-this-expert-explains-what-it-is-and-why-we-should-care-1.5107893)
 [^3]: Fourtané, S. (2021, April 8). _Connected Vehicles in Smart Cities: The Future of Transportation. Interesting Engineering._ Retrieved February 20, 2022, from [https://interestingengineering.com/connected-vehicles-in-smart-cities-the-future-of-transportation](https://interestingengineering.com/connected-vehicles-in-smart-cities-the-future-of-transportation)
