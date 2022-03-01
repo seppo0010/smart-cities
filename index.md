@@ -1,4 +1,4 @@
-# Smart Cities
+# ¿Es Buenos Aires una Smart City?
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) Sebastian Waisbrot
 
@@ -36,6 +36,14 @@ Posee WiFi público en las estaciones de subterráneo de la ciudad[^16] y la ape
 Las luces de la ciudad son un 100% LED las cuales no sólo ahorran energía sino que también permiten detectar cuando fallan y agendar reemplazos.[^18]
 
 La red hidrométrica mide el caudal, la altura y lluvia acumulada[^19] aunque no es claro qué medidas se toman con esta información.
+
+# Conclusión
+
+Buenos Aires está en camino a ser una Smart City. Tiene avances en algunas áreas
+como infraestructura (red pluvial), transporte, seguridad. La apertura de datos
+favorece la participación de la organizaciones de la sociedad civil y empresas
+hacia la mejora de la ciudadanía.
+
 
 # Referencias
 
